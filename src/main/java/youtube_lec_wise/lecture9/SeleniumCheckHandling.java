@@ -31,7 +31,7 @@ public class SeleniumCheckHandling
         catch (Exception e)
         {
             System.out.println("Element is Clicking Passed TT");
-            takeScreenShot(driver,"ErroSnaphshot");
+            takeScreenShot(driver,"Albreta");
         }
         finally {
             driver.quit();
