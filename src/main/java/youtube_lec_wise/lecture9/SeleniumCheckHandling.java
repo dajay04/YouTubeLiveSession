@@ -30,7 +30,7 @@ public class SeleniumCheckHandling
         }
         catch (Exception e)
         {
-            System.out.println("Element is Clicking Passed");
+            System.out.println("Element is Clicking Failed");
             takeScreenShot(driver,"ErroSnaphshot");
         }
         finally {
