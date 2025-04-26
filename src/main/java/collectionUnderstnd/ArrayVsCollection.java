@@ -29,7 +29,7 @@ public class ArrayVsCollection
 
 
 
-        System.out.println("Collection Element");
+        System.out.println("Selection Element");
         for (String tool: collecrtion)
         {
             System.out.println(tool);
