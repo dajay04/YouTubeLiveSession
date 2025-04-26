@@ -15,7 +15,7 @@ public class CollectionVsCollections
         names.add("Zara");
         names.add("Ankit");
 
-        System.out.println("Failed List:"+ names);
+        System.out.println("Made List:" + names);
 
     }
 
