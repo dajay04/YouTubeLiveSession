@@ -27,9 +27,7 @@ public class ArrayVsCollection
         collecrtion.add("API Testing");
         collecrtion.add("Jenkings"); // dynamic wvalue
 
-
-
-        System.out.println("Collection Element");
+        System.out.println("Selection Element");
         for (String tool: collecrtion)
         {
             System.out.println(tool);
