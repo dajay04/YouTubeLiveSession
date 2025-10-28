@@ -5,5 +5,9 @@ import java.util.Scanner;
 public class Program5Test
 {
 
-    Scanner sc;
+    static Scanner sc;
+
+    public static void main(String[] args) {
+        sc.next();
+    }
 }
