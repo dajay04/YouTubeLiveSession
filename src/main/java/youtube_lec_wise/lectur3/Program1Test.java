@@ -4,7 +4,7 @@ public class Program1Test
 {
     public static void main(String[] args)
     {
-        int a =10, b=507 , c=34;
+        int a =10, b=607 , c=34;
 
         if((a>b) && (a>c))
         {
@@ -12,7 +12,7 @@ public class Program1Test
         }
         else if((b>a) && (b>c))  // Above condtion in if ladder is false
         {
-            System.out.println("B is Greater than all values");
+            System.out.println("sadsadsa is Greater than all values");
         }
         else
         {
