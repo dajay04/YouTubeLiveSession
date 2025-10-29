@@ -4,7 +4,7 @@ public class Program1Test
 {
     public static void main(String[] args)
     {
-        int a =10, b=550 , c=34;
+        int a =10, b=100 , c=34;
 
         if((a>b) && (a>c))
         {
