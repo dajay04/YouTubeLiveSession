@@ -4,7 +4,7 @@ public class Program3Test
 {
     public static void main(String[] args)
     {
-        int year =2002;
+        int year =1000;
 
         if((year % 400 ==0)      ||   (year % 4 ==0 && year %100 !=0 )      )
         {
