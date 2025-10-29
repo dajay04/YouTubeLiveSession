@@ -16,7 +16,7 @@ public class Program1Test
         }
         else
         {
-            System.out.println("C is Ranger than all values");
+            System.out.println("C is Demo than all values");
         }
 
     }
